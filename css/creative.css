@@ -236,7 +236,8 @@ header.masthead {
 }
 
 
+@media (min-width: 1200px) {
 .list-group {
   flex-direction: row;
 }
-
+}
