@@ -241,7 +241,3 @@ header.masthead {
   flex-direction: row;
 }
 }
-
-.rowDocumentacion {
-  padding: 20px 0 40px 0;
-}
