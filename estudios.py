@@ -7,7 +7,7 @@
 #Proyecto grupo G
 #Integrantes:
 # -Julia Fernández Reyes
-# -Elliani Agüero Selva
+# -Elianni Agüero Selva
 # -Juan Mas Aguilar
 # -Gema Eugercios Suárez
 # -Lorenzo José de la Paz Suárez
